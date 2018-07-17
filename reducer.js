@@ -2,7 +2,7 @@ const START_TIMER = "START_TIMER";
 const RESTART_TIMER = "RESTART_TIMER";
 const ADD_SECOND = "ADD_SECOND";
 
-// Action Creators
+// Action Creators()
 function startTimer() {
     return {
         type: START_TIMER

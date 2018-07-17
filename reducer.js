@@ -17,7 +17,7 @@ function restartTimer() {
 
 function addSecond() {
     return {
-        type: ADD_SECOND
+        type: ADD_SECOND 
     };
 }
 
